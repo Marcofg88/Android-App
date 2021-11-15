@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">CambiaActivity</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="insert_name">insert name</string>
+    <string name="insert_surname">insert surname</string>
+    <string name="login">LOGIN</string>
+    <string name="activity_2">Activity 2</string>
+</resources>

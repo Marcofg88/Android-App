@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CambiaActivity</string>
+    <string name="activity_1">Attività 1</string>
+    <string name="insert_name">inserisci nome</string>
+    <string name="insert_surname">inserisci cognome</string>
+    <string name="login">entra</string>
+    <string name="activity_2">Attività 2</string>
+</resources>
